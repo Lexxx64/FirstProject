@@ -1,0 +1,15 @@
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\bin\Debug\net7.0\FirstProject001_HelloWorld.exe
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\bin\Debug\net7.0\FirstProject001_HelloWorld.deps.json
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\bin\Debug\net7.0\FirstProject001_HelloWorld.runtimeconfig.json
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\bin\Debug\net7.0\FirstProject001_HelloWorld.dll
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\bin\Debug\net7.0\FirstProject001_HelloWorld.pdb
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\FirstProject001_HelloWorld.csproj.AssemblyReference.cache
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\FirstProject001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\FirstProject001_HelloWorld.AssemblyInfoInputs.cache
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\FirstProject001_HelloWorld.AssemblyInfo.cs
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\FirstProject001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\FirstProject001_HelloWorld.dll
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\refint\FirstProject001_HelloWorld.dll
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\FirstProject001_HelloWorld.pdb
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\FirstProject001_HelloWorld.genruntimeconfig.cache
+C:\Обучение\FirstProject\FirstProject001_HelloWorld\obj\Debug\net7.0\ref\FirstProject001_HelloWorld.dll
